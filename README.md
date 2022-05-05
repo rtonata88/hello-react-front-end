@@ -28,6 +28,9 @@ Once the project folder is downloaded to your computer, run the following comman
 - `npm start` to run the project in the browser.
 
 
+- Pull Request link: [PR](https://github.com/rtonata88/hello-react-front-end/pull/1)
+
+
 ## Authors
 
 👤 **Richard Chambula**
